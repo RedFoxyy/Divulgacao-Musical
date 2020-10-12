@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: #dc3545;
+    background-color:  #343a40;
 }
 
 .carousel .btn {
@@ -21,3 +21,85 @@ body {
     font-size: 25px;
 }
 
+a {
+    color: inherit;
+}
+
+p {
+    font-size: 30px;
+    text-align: justify;
+    margin: 20px;
+}
+
+#sobre {
+    background-color: #da3e4e;
+}
+
+#sobre h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#termos {
+    background-color:  #343a40;
+    color:  #eee4e4;
+}
+
+#termos h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#pop {
+    background-color: #e83e8c;
+}
+
+#pop h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#alternativo {
+    background-color: #6c757d;
+}
+
+#alternativo h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#hiphop {
+    background-color: #ffc107;
+}
+
+#hiphop h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#nacionais {
+    background-color: #28a745;
+}
+
+#nacionais h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#rock {
+    background-color:  #dc3545;
+}
+
+#rock h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+#indie {
+    background-color: #6f42c1;
+}
+
+#indie h1 {
+    text-align: center;
+    padding: 20px;
+}
