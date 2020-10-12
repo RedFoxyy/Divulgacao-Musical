@@ -1,0 +1,23 @@
+.carousel-item p {
+    color: rgb(31, 28, 28);
+    font-size: 30px;
+}
+
+.carousel-item h1 {
+    color: rgb(31, 28, 28);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+body {
+    background-color: #dc3545;
+}
+
+.carousel .btn {
+    margin-top: 10px;
+}
+
+.navbar a {
+    font-size: 25px;
+}
+
