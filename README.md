@@ -1,1 +1,1 @@
- https://redfoxyy.github.io/Divulgacao-Musical/
+https://redfoxyy.github.io/Divulgacao-Musical/
