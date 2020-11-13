@@ -188,3 +188,22 @@ th, td {
     padding: 15px;
 
 }
+
+#portfolio h1 {
+    text-align: center;
+    color:  #e83e8c;
+}
+
+#portfolio img {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contato h3 {
+    color: white;
+}
+
+.contato h1 {
+    text-align: center;
+    color: white;
+}
